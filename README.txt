@@ -1,0 +1,2 @@
+This document contains the instructions to run our mini-search engine.
+ Compile the cpp file searchEngine and the header file AVL in a  c++ IDE with the 50 documents in a folder called documents and the stopwords.txt file all in the project file. 
